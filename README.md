@@ -2,7 +2,7 @@
 
 ## Contents
 
-- Getting started
+- [Getting started](getting-started)
 
 - Models
 
