@@ -4,7 +4,7 @@
 
 - [Getting started](getting-started)
 
-- Models
+- [Models](models)
 
 - Gemini API
 
