@@ -6,7 +6,7 @@
 
 - [Models](models)
 
-- Gemini API
+- [Gemini API](gemini-api)
 
 - Capabilities
 
