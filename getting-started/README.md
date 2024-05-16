@@ -4,7 +4,7 @@
 
 - Get an API key
 
-- [Gemini API quickstart](gemini-api-quickstart.md)
+- [Gemini API quickstart](gemini-api-quickstart)
 
 - [Google AI Studio quickstart](google-ai-studio-quickstart.md)
 
