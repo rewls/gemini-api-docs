@@ -8,4 +8,4 @@
 
 - [Google AI Studio quickstart](google-ai-studio-quickstart.md)
 
-- Getting started tutorials
+- [Getting started tutorials](getting-started-tutorials)
