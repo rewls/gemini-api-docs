@@ -58,7 +58,7 @@ response = chat.send_message(
         "Pretend you\'re a snowman and stay in character for each response.")
 print(response.text)
 
-response = chat.send_message("What\' your favorite season of the year?")
+response = chat.send_message("What\'s your favorite season of the year?")
 print(response.text)
 ```
 
@@ -73,7 +73,7 @@ print(response.text)
 ```python
 prompt = "Write a story about a magic backpack."
 
-response = genai.stream_generate_content(model = "models/genimi1pro",
+response = genai.stream_generate_content(model = "models/gemini-pro",
                                          prompt = prompt)
 ```
 
@@ -111,3 +111,5 @@ $ curl https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-la
 - Get started with the Google AI Studio UI using the Google AI Studio quickstart.
 
 - Try out server-side access to the Gemini API with the Get started tutorials > Tutorial.
+
+- If you're an existing Google Cloud user (or you would like to use Gemini on Vertex to take advantage of the powerful Google Cloud ecosystem), check out Generative AI on Vertex AI to lean more.

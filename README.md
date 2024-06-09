@@ -2,22 +2,44 @@
 
 ## Contents
 
-- [Getting started](getting-started)
+### Getting started
 
-- [Models](models)
+- Get an API key
 
-- [Gemini API](gemini-api)
+- [Gemini API quickstart](gemini-api-quickstart)
 
-- Capabilities
+- [Google AI Studio quickstart](google-ai-studio-quickstart.md)
 
-- Guides
+- [Getting started tutorials](getting-started-tutorials)
 
-- Tutorials
+### Models
 
-- Troubleshooting
+- [About generative models](about-generative-models.md)
 
-- Community
+- Gemini
 
-- PaLM API (legacy)
+### Gemini API
 
-- Legal
+- [API overview](api-overview.md)
+
+- API reference
+
+- API versions
+
+- Release notes
+
+---
+
+-  Capabilities
+
+-  Guides
+
+-  Tutorials
+
+-  Troubleshooting
+
+-  Community
+
+-  PaLM API (legacy)
+
+-  Legal

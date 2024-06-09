@@ -2,6 +2,8 @@
 
 - Generative artificial intelligence (AI) models such as the Gemini family of models are able to create content from varying types of data input, including text, images, and audio.
 
+- At their most basic level, these models operate like sophisticated autocomplete applications.
+
 - Given input text, a generative model can predict that the output text that's statistically likely to follow, based on patterns learned from their training data.
 
 - You can use this basic property of generative models for various applications:
