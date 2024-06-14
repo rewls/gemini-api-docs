@@ -2,10 +2,10 @@
 
 ## Contents
 
-- [Intro to prompting](intro-to-prompting)
+- [Intro to prompting](intro-to-prompting.md)
 
 - Prompting with media files
 
-- Prompting strategies
+- [Prompting strategies](prompting-strategies.md)
 
 - File prompting strategies
