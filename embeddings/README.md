@@ -6,6 +6,6 @@
 
 - Clustering
 
-- [Document search](document-search.md)
+- [Document search](document-search)
 
 - Train a text classifier

@@ -40,9 +40,11 @@
 
 - Safety
 
----
+### Guides
 
-- Guides
+- [Prompting](prompting)
+
+---
 
 - Tutorials
 
