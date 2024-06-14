@@ -28,18 +28,28 @@
 
 - Release notes
 
+### Capabilities
+
+- Text generation
+
+- Model tuning
+
+- Function calling
+
+- [Embeddings](embeddings.md)
+
+- Safety
+
 ---
 
--  Capabilities
+- Guides
 
--  Guides
+- Tutorials
 
--  Tutorials
+- Troubleshooting
 
--  Troubleshooting
+- Community
 
--  Community
+- PaLM API (legacy)
 
--  PaLM API (legacy)
-
--  Legal
+- Legal
